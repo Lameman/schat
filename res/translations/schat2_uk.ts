@@ -1090,7 +1090,7 @@
     <message>
         <location filename="../../src/schat2/WebBridge.cpp" line="83"/>
         <source>Sign in using your account with</source>
-        <translation>Звйти в чат через свій аккаунт у</translation>
+        <translation>Зайти в чат через свій аккаунт у</translation>
     </message>
     <message>
         <location filename="../../src/schat2/WebBridge.cpp" line="84"/>
