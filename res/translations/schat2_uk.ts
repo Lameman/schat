@@ -568,12 +568,12 @@
     <message>
         <location filename="../../src/schat2/Profile.cpp" line="44"/>
         <source>Male</source>
-        <translation>Чоловічий</translation>
+        <translation>Чоловік</translation>
     </message>
     <message>
         <location filename="../../src/schat2/Profile.cpp" line="45"/>
         <source>Female</source>
-        <translation>Жіночий</translation>
+        <translation>Жінка</translation>
     </message>
     <message>
         <location filename="../../src/schat2/Profile.cpp" line="46"/>
